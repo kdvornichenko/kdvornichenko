@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://t.me/mercyyy813"> 
+    <a href="https://t.me/mercyyy813" target="_blank"> 
       <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"> 
     </a>
   </div>
@@ -25,7 +25,7 @@ My name is Kirill and I am a Junior Frontend Developer <img src="https://media.g
 
 - :zap: In my free time, I solve kata on Codewars <img src="https://www.codewars.com/users/kdvornichenko/badges/small" alt="Codewars Badge"/>
 
-- :mailbox:How to reach me: <a href="https://t.me/mercyyy813"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30" alt="Telegram Badge"></a>
+- :mailbox:How to reach me: <a href="https://t.me/mercyyy813" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30" alt="Telegram Badge"></a>
 
 ---
 
