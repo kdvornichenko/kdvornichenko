@@ -23,7 +23,7 @@ My name is Kirill and I am a Junior Frontend Developer <img src="https://media.g
 
 - :seedling: Love to read articles about frontend development and watch tutorail videos
 
-- :zap: In my free time, I solve kata on Codewars <img src="https://www.codewars.com/users/kdvornichenko/badges/small" alt="Codewars Badge"/>
+- :zap: In my free time, I solve kata on Codewars <a src="https://www.codewars.com/users/kdvornichenko"><img src="https://www.codewars.com/users/kdvornichenko/badges/small" alt="Codewars Badge"/></a> 
 
 - :mailbox:How to reach me: <a href="https://t.me/mercyyy813" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30" alt="Telegram Badge"></a>
 
