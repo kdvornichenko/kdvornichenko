@@ -18,7 +18,7 @@
 ---
 
 ### :man_technologist: About Me :
-My name is Kirill and I am a Junior Frontend Developer <img src="https://media.giphy.com/media/9RL6QuG8k4Gco8pyFH/giphy.gif" width="25"> from Kazakhstan, living in St. Petersburg
+My name is Kirill and I am a Frontend Developer <img src="https://media.giphy.com/media/9RL6QuG8k4Gco8pyFH/giphy.gif" width="25"> from Kazakhstan, living in St. Petersburg
 - :telescope: I'm learning React and practising developing web-applications
 
 - :seedling: Love to read articles about frontend development and watch tutorail videos
